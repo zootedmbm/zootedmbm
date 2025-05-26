@@ -29,6 +29,6 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadBinMehmood&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zootedmbm&show_icons=true&theme=radical)
 
 ---
